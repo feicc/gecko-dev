@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
-<animate by="2" min="5:45" calcMode="discrete" attributeName="height" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600"><animate attributeName="height" by="2" calcMode="discrete" min="5:45"/></svg>

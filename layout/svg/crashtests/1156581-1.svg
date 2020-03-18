@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="filter: url(#a); clip: rect(0px, 4rem, 2px, 2px);">
-    <script>
-        function boom()
-        {
-            document.getElementById("a").style.overflow = "hidden";
-            document.documentElement.style.fontSize = "10px";
-        }
-        window.addEventListener("load", boom, false);
-    </script>
-
-    <set id="a"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" clip="rect(0px, 4rem, 2px, 2px)" filter="url(#a)"><script>function boom() { document.getElementById(&quot;a&quot;).style.overflow = &quot;hidden&quot;; document.documentElement.style.fontSize = &quot;10px&quot;; } window.addEventListener(&quot;load&quot;, boom, false);</script><set id="a"/></svg>

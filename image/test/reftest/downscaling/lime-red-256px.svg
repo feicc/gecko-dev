@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
-     width="256" height="256">
-  <rect width="50%" height="100%" fill="lime"/>
-  <rect x="50%" width="50%" height="100%" fill="red"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1"><rect width="50%" height="100%" fill="#0f0"/><rect width="50%" height="100%" x="50%" fill="red"/></svg>

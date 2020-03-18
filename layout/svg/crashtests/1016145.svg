@@ -1,5 +1,1 @@
-<!-- svg mime type but html root -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <body style="display: table-column-group;" />
-</html>
-
+<html xmlns="http://www.w3.org/1999/xhtml"><body display="table-column-group"/></html>

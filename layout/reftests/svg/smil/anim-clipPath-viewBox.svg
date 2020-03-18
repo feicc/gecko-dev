@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="600" height="400" preserveAspectRatio="none"
-     viewBox="50 100 500 200"
-     class="reftest-wait"
-     onload="setTimeAndSnapshot(1, true)">
-  <script xlink:href="smil-util.js" type="text/javascript"/>
-  <rect x="50" y="100" width="500" height="200" style="fill:blue;"
-        clip-path="circle(100px at center) view-box"/>
-  <animate attributeName="viewBox" values="50 100 500 200; 0 0 600 400"
-           dur="0.5s" fill="freeze"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400" class="reftest-wait" onload="setTimeAndSnapshot(1, true)" preserveAspectRatio="none" viewBox="50 100 500 200"><script type="text/javascript" xlink:href="smil-util.js"/><rect width="500" height="200" x="50" y="100" fill="#00f" clip-path="circle(100px at center) view-box"/><animate fill="freeze" attributeName="viewBox" dur="0.5s" values="50 100 500 200; 0 0 600 400"/></svg>

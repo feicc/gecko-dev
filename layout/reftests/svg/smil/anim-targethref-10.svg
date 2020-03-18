@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-  <animate href="#x" attributeName="href" values="https://www.google.com"/>
-  <a id="x" fill="red"><rect x="15" y="15" width="200" height="200"/></a>
-  <style>
-    a:any-link {
-      fill: blue;
-    }
-  </style>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg"><animate attributeName="href" href="#x" values="https://www.google.com"/><a id="x" fill="red"><rect width="200" height="200" x="15" y="15"/></a><style>a:any-link{fill:#00f}</style></svg>
